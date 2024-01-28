@@ -1,0 +1,37 @@
+h1, h2, h3 {
+  font-family: arial, verdana, helvetica, sans-serif;
+}
+
+body {
+    font-family: verdana, arial, helvetica, sans-serif;
+    color: #000000;
+    background-color: #FBFBFF;
+        
+    margin-left: 65px;
+    margin-right: 65px;
+}
+
+h1 {
+    color: #660099;
+    background-color: #FBFBFF;
+}
+
+h2 {
+    color: #000000;
+    background-color: #FBFBFF;
+}
+
+h3 {
+    color: #660099;
+    background-color: #FBFBFF;
+}
+
+p {
+    margin-right: 85px;
+}
+
+li {
+    margin-left: 40px;
+    list-style-type: circle;
+    
+}
