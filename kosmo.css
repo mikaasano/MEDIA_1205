@@ -1,4 +1,4 @@
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: arial, geneva, verdana, sans-serif;
 }
 
@@ -29,6 +29,13 @@ h3 {
     color: #f06060;
     background-color: #ffe6de;
     font-size: 1.17em;
+    text-align: center;
+}
+
+h4 {
+    color: #000000;
+    background-color: #ffe6de;
+    font-size: 1em;
     text-align: center;
 }
 
@@ -94,3 +101,10 @@ li {
 a:active
 {
  color: #604890;
+}
+    
+hr {
+ width: 70%;
+ margin: 0 auto;
+color: #a860a8;
+}
